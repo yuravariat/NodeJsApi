@@ -1,0 +1,13 @@
+{
+  "name": "TestNodeJS",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "body-parser":"1.15.2",
+    "jade": "*"
+  }
+}
